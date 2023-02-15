@@ -5,6 +5,8 @@ import Header from './Components/Header.js';
 // import { useUser } from './Components/context/UserContext.js';
 import Auth from './Components/Auth/Auth.js';
 
+// oh no
+
 function App() {
     // const { user } = useUser();
     return (
